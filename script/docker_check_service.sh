@@ -3,13 +3,13 @@
 source ./style_info.cfg
 
 docker_compose_components=(
-  etcd
-  mongo
-  mysql
+  open-im-etcd
+  open-im-mongo
+  open-im-mysql
   open-im-server
-  redis
-  kafka
-  zookeeper
+  open-im-redis
+  open-im-kafka
+  open-im-zookeeper
 )
 
 component_server_count=0

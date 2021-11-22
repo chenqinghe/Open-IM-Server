@@ -5,5 +5,5 @@ components
 logs
 out-test
 .github
-
-
+.idea
+.vscode
